@@ -1,3 +1,3 @@
 <?php 
-include('bdIII.html');
+include('bd.php');
 ?>
